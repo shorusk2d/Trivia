@@ -13,5 +13,6 @@ namespace Trivia
     /// </summary>
     public partial class App : Application
     {
+        //REVIEW: А где глобальный обработчик ошибок?
     }
 }

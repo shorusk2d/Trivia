@@ -12,6 +12,7 @@ namespace Trivia
     {
         public void SaveQuestion(Question q)
         {
+            //REVIEW: А если эта строка - пуста или отсутствует?
             using (SqlConnection db = new SqlConnection(Properties.Settings.Default.sqlstring))
             {
                 SqlCommand cm = new SqlCommand($"insert into Questions ([question], [correct]) values (\'{q.question}\', \'{q.correct_answer}\')", db);
