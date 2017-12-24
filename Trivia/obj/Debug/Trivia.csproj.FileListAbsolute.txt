@@ -1,0 +1,33 @@
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\bin\Debug\Trivia.exe.config
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\bin\Debug\Trivia.exe
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\bin\Debug\Trivia.pdb
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\bin\Debug\Newtonsoft.Json.dll
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\bin\Debug\Newtonsoft.Json.xml
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\Trivia.csprojResolveAssemblyReference.cache
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\MainWindow.g.cs
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\App.g.cs
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\Trivia_MarkupCompile.cache
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\Trivia_MarkupCompile.lref
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\MainWindow.baml
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\Trivia.g.resources
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\Trivia.Properties.Resources.resources
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\Trivia.csproj.GenerateResource.Cache
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\Trivia.exe
+c:\users\даня\documents\visual studio 2015\Projects\Trivia\Trivia\obj\Debug\Trivia.pdb
+E:\Trivia\Trivia\Trivia\bin\Debug\Trivia.exe.config
+E:\Trivia\Trivia\Trivia\bin\Debug\Trivia.exe
+E:\Trivia\Trivia\Trivia\bin\Debug\Trivia.pdb
+E:\Trivia\Trivia\Trivia\bin\Debug\Newtonsoft.Json.dll
+E:\Trivia\Trivia\Trivia\bin\Debug\Newtonsoft.Json.xml
+E:\Trivia\Trivia\Trivia\obj\Debug\Trivia.csprojResolveAssemblyReference.cache
+E:\Trivia\Trivia\Trivia\obj\Debug\MainWindow.g.cs
+E:\Trivia\Trivia\Trivia\obj\Debug\App.g.cs
+E:\Trivia\Trivia\Trivia\obj\Debug\Trivia_MarkupCompile.cache
+E:\Trivia\Trivia\Trivia\obj\Debug\Trivia_MarkupCompile.lref
+E:\Trivia\Trivia\Trivia\obj\Debug\MainWindow.baml
+E:\Trivia\Trivia\Trivia\obj\Debug\Trivia.g.resources
+E:\Trivia\Trivia\Trivia\obj\Debug\Trivia.Properties.Resources.resources
+E:\Trivia\Trivia\Trivia\obj\Debug\Trivia.csproj.GenerateResource.Cache
+E:\Trivia\Trivia\Trivia\obj\Debug\Trivia.csproj.CoreCompileInputs.cache
+E:\Trivia\Trivia\Trivia\obj\Debug\Trivia.exe
+E:\Trivia\Trivia\Trivia\obj\Debug\Trivia.pdb
